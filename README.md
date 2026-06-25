@@ -1,5 +1,5 @@
 # snake-arcade-remastered
-# 🐍 Ultimate Snake Game
+# 🐍 Snake Game
 
 A modern reimagining of the classic Snake Game built using pure HTML5, CSS3, and JavaScript.
 
@@ -55,7 +55,7 @@ Modern cyber-themed Snake Game with glowing effects, animated food, particle sys
 - Smooth Interpolation Animation
 
 ## 📂 Project Structure
-Ultimate-Snake-Game/
+snake-arcade-remastered/
 │
 ├── snakeGame.html
 ├── README.md
